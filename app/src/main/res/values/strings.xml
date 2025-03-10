@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Isen Smart Companion</string>
+    <string name="isen_logo">Isen Logo</string>
+
+    //Main
+    <string name="navbar_home">Home</string>
+    <string name="navbar_events">Events</string>
+    <string name="navbar_history">History</string>
+    <string name="title_event_detail_activity">EventDetailActivity</string>
+
+    //EventDetails
+    <string name="notify_on">Notify me : ON</string>
+    <string name="notify_off">Notify me : OFF</string>
+    <string name="date_label">Date:</string>
+    <string name="location_label">Location:</string>
+    <string name="category_label">Category:</string>
+    <string name="event_not_found">Event not found</string>
+
+    //MainScreen
+    <string name="input">Ask me anything...</string>
+
+    //EventScreen
+    <string name="event_screen_title">Event List</string>
+    <string name="event_location">Location</string>
+    <string name="event_date">Date</string>
+
+    //HistoryScreen
+    <string name="message_history_title">Message History</string>
+    <string name="delete_all_button">Delete All</string>
+    <string name="delete_message_description">Delete message</string>
+    <string name="user">👤:</string>
+    <string name="ai">🤖:</string>
+</resources>
